@@ -10,6 +10,6 @@ https://arxiv.org/pdf/1711.11027.pdf
 https://github.com/ixlan/BSG
 
 
-## Literatures about bayesian-embedding + network
+## Literatures about bayesian-embedding + graph
 DeBayes: a Bayesian method for debiasing network embeddings
 https://arxiv.org/pdf/2002.11442.pdf
