@@ -11,5 +11,6 @@ https://github.com/ixlan/BSG
 
 
 ## Literatures about bayesian-embedding + graph
-DeBayes: a Bayesian method for debiasing network embeddings
-https://arxiv.org/pdf/2002.11442.pdf
+Bayes EMbedding (BEM): Refining Representation by
+Integrating Knowledge Graphs and Behavior-specific Networks
+file:///Users/zachary/Downloads/3357384.3358014.pdf
