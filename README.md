@@ -13,4 +13,4 @@ https://github.com/ixlan/BSG
 ## Literatures about bayesian-embedding + graph
 Bayes EMbedding (BEM): Refining Representation by
 Integrating Knowledge Graphs and Behavior-specific Networks
-file:///Users/zachary/Downloads/3357384.3358014.pdf
+https://arxiv.org/pdf/1908.10611.pdf
